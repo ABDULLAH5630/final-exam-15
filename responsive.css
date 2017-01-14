@@ -1,0 +1,197 @@
+@media only screen and (max-width: 680px) and (min-width: 550px){
+    .menu-section{
+        margin-bottom: -160px;
+        height: 230px;
+}
+    
+    .menu-section p{
+        margin-left: 50px;
+        font-size: 15px;
+}
+
+    .menu-section ul li{
+        margin-right: 10px;
+}
+    
+    .footer ul li{
+        margin-right: 5px;
+    }
+    
+}
+    
+  
+
+    
+    @media only screen and (max-width: 549px){
+    .menu-section{
+        margin-bottom: -120px;
+        height: 250px;
+}
+        
+    .menu-section .left{
+        width: 90%;
+        font-size: 12px;
+        margin: 10px auto;
+        text-align: center;
+        display: block;
+        float: none;
+}
+    .menu-section .left p{
+        font-size: 15px;
+        margin: 0px;
+        text-align: center;
+}
+
+    .menu-section .right{
+        margin: 5px auto;
+        width: 80%;
+        float: none;
+        height: 60px;
+}
+       .right ul{
+            margin: 0px auto;
+            width: 100px;
+            padding: 0px;
+        }
+        
+        .right ul li{
+            margin: 0px 5px;
+            padding: 0px;
+        }
+        
+        .right ul li:last-child{
+            margin-right: 0px;
+        }
+        
+        h1{
+            font-size: 25px;
+        }
+        
+        .footer{
+            height: 130px;
+        }
+        
+        .footer .left{
+            float: none;
+            margin: 5px auto 15px;
+            width: 50%;
+            text-align: center;
+        }
+        
+        .footer .right{
+            float: none;
+            margin-bottom: 40px;
+            height: 25px;
+        }
+        
+        .contact-section{
+            margin-top: -10px;
+        }
+        
+        .mar20 .imag-small{
+            width: 200px;
+            height: 250px;
+            padding: 0px;
+            margin: 20px auto 100px;
+        }
+        
+        .mar20 .imag-small img{
+            width: 100%;
+            height: 100%;
+        }
+        
+        .mar20 h5{
+            font-size: 18px;
+            margin: 15px 0px 10px;
+        }
+        
+        
+        .right-image{
+            height: 300px;
+        }
+        
+        .right-image #soto{
+            height: 300px;
+        }
+        
+        .contact-section .resbtn {
+            width: 100px;
+            height: 50px;
+            margin: 15px auto 30px;
+        }
+        
+        .contact-section .resbtn .btn.btn-lg.btn-success{
+            width: 100%;
+            height: 100%;
+        }
+    
+    
+}
+
+
+
+@media only screen and (max-width: 2560px) and (min-width: 1601px){
+    
+       .menu-section{
+            margin-bottom: -110px;
+            height: 250px;
+            background: #e4e4e4;
+}
+        .menu-section .left{
+            margin: 10px auto 10px 600px;
+}
+    
+        .menu-section .right{
+            margin: 10px 600px 10px auto;
+}
+    
+        .footer{
+            height: 150px;
+            padding-top: 60px;
+            padding-bottom: 60px;
+        }
+        
+        .footer .left{
+            margin: 10px auto 10px 600px;
+        }
+        
+        .footer .right{
+            margin: 10px 600px 10px auto;
+        }
+    
+    
+    
+}
+
+
+
+
+
+    @media only screen and (max-width: 775px) and (min-width: 448px){
+    .mar20 .imag-small{
+            width: 200px;
+            height: 250px;
+            padding: 0px;
+            margin: 20px auto 100px;
+        }
+        
+        .mar20 .imag-small img{
+            width: 100%;
+            height: 100%;
+        }
+        
+        .mar20 h5{
+            font-size: 20px;
+        }
+        
+        .contact-section .resbtn {
+            width: 100px;
+            height: 50px;
+            margin: 15px auto 30px;
+        }
+        
+        .contact-section .resbtn .btn.btn-lg.btn-success{
+            width: 100%;
+            height: 100%;
+        }
+}
